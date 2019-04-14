@@ -1,3 +1,8 @@
 1-a
+<<<<<<< HEAD
 2-different
 3-c
+=======
+2-more
+3-c
+>>>>>>> 1395be0eb4732a8014fbdb9101c47cb1507e34b5
